@@ -8,15 +8,20 @@
   },
   "keywords": [
     "eslint",
-    "eslintconfig"
+    "eslintconfig",
+    "lint"
   ],
   "peerDependencies": {
     "eslint": ">= 3"
   },
-  "author": "Ivaylo Getov",
   "repository": {
     "type": "git",
     "url": "https://github.com/luxloop/eslint-config-luxloop.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Ivaylo Getov <ivaylo@luxloop.com> (https://twitter.com/ivaylopg)",
+  "bugs": {
+    "url": "https://github.com/luxloop/eslint-config-luxloop/issues"
+  },
+  "homepage": "https://github.com/luxloop/eslint-config-luxloop"
 }
