@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-luxloop",
+  "version": "1.0.0",
+  "description": "Luxloop default JS rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "author": "Ivaylo Getov",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luxloop/eslint-config-luxloop.git"
+  },
+  "license": "MIT"
+}
